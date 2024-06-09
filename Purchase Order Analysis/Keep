@@ -1,0 +1,10 @@
+## Question:					
+Presume the table in base_data is hosted in schema 'analytics' i.e. the table location is analytics.base_data					
+Write a query to give the following output:					
+					
+| division_name    | fillrate | fillrate - open POs | sm-fillrate | hm-fillrate |
+|------------------|----------|---------------------|-------------|-------------|
+| Grocery Food     |          |                     |             |             |
+| Grocery Non Food |          |                     |             |             |
+| Staples          |          |                     |             |             |
+|------------------|----------|---------------------|-------------|-------------|
