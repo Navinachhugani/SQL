@@ -1,6 +1,5 @@
-Question:
-Presume the table in base_data is hosted in schema 'analytics' i.e. the table location is analytics.base_data
-Write a query to give the following output:
+## Question:
+Presume the table in base_data is hosted in schema 'analytics' i.e. the table location is analytics.base_data and write a query to give the following output:
 
 | division_name    | fillrate | fillrate - open POs | sm-fillrate | hm-fillrate |
 |------------------|----------|---------------------|-------------|-------------|
@@ -8,10 +7,9 @@ Write a query to give the following output:
 | Grocery Non Food |          |                     |             |             |
 | Staples          |          |                     |             |             |
 
-Solution:
+## Solution:
 
 Query - (https://github.com/Navinachhugani/SQL/blob/main/Purchase%20Order%20Analysis/Solution.sql)
-
 
 | division_name    | fillrate    | fillrate - open POs | sm-fillrate | hm-fillrate |
 |------------------|-------------|---------------------|-------------|-------------|
